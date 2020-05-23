@@ -120,7 +120,7 @@
 
                 <div class="links">
                     <a href="./send-mail" class="button">
-                        Send a test mail
+                        Send a test mail!
                     </a>
                 </div>
 
